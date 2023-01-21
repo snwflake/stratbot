@@ -20,7 +20,7 @@ $ python3 -m venv .venv
 and activate it
 
 ```bash
-$ .venv/bin/activate
+$ . .venv/bin/activate
 ```
 
 If you're on windows, you'll have to figure that out by yourself
